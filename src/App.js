@@ -1,6 +1,7 @@
 import Header from './components/Header'
 import ResearchCards from './components/ResearchCards'
 import DemoCarousel from './components/DemoCarousel'
+import TextCarousel from './components/TextCarousel'
 
 import './App.css'
 
@@ -9,6 +10,7 @@ const App = () => (
     <Header />
     <ResearchCards />
     <DemoCarousel />
+    <TextCarousel />
   </div>
 )
 
